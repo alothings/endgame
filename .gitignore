@@ -1,0 +1,6 @@
+*.pyc
+application.config
+development.config
+.elasticbeanstalk/
+release/
+.idea/
